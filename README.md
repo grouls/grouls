@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grouls
-- 👀 I’m interested in Frontend development and User Experience.
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Typescript
 
 <!---
