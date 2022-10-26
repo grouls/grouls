@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grouls
-- 👀 I’m interested in Software Development
+- 👀 I’m currently working as a React Develop
 - 🌱 I’m currently learning Typescript
 
 <!---
