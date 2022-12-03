@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grouls
-- 👀 I’m currently working as a React Develop
+- 👀 I’m currently working as a React Developer
 - 🌱 I’m currently learning Typescript
 
 <!---
